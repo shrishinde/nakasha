@@ -1,0 +1,15 @@
+NAKASHA
+=======
+
+Nakasha is web application to search rooms inside campuses.
+
+Features
+--------
+
+[] Restful web service
+[] Simple floor maps to locate room
+[] Web client
+
+License
+-------
+MIT License. See LICENSE file for more information.
